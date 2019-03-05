@@ -1,13 +1,13 @@
 # Lesson 1
 
-1. Work culture
+1. **Work culture**
    - Multiple monitors
    - Openspace simulation
    - ENGLISH !
    - Code reuse
    - Google
   
-2. Git
+2. **Git**
    - Principle
    - Commands
      - git init
@@ -18,10 +18,11 @@
      - git merge
    - Git in VS?
   
-3. Github
+3. **Github**
    - Create account
    - Create repository
    - Commands
+     - git clone
      - git remote add
      - git push
      - git pull    
