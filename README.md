@@ -16,6 +16,7 @@
      - git branch
      - git checkout
      - git merge
+   - Conflicts
    - Git in VS?
   
 3. **Github**
@@ -26,7 +27,8 @@
      - git remote add
      - git push
      - git pull    
-   - Fork
+   - Conflicts
+   - Fork   
  
 Homework: 
   
