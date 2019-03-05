@@ -3,7 +3,7 @@
 1. **Work culture**
    - Multiple monitors
    - Openspace simulation
-   - ENGLISH !
+   - ENGLISH
    - Code reuse
    - Google
   
