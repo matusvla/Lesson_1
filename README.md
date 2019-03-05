@@ -51,6 +51,7 @@
 4. Create a branch named writingBackwards and go to this branch
 5. Change the main.cpp in the branch writingBackwards so that it writes out numbers 5 to 1 and try it out
 6. Make sure the code in master branch remained unchanged
+7. IMPORTANT: Find one git command we haven't talked about, learn about it and demonstrate
 
 **BONUS:** Enhance the program in master branch so that it displays numbers from 1 to 10000 
   
